@@ -1,6 +1,6 @@
 module.exports = {
 	title: "zigmoon futur",
-	url: "https://example.com/",
+	url: "https://zigmoon-astro.vercel.app/",
 	language: "en",
 	description: "I am fluide designer from France.",
 	author: {
